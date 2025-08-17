@@ -1,0 +1,8 @@
+Task 2 
+
+Question 01 
+Answer : When the number of hidden nodes in a neural network increases, the model becomes more powerful and capable of learning complex patterns in the data. If there are too few hidden nodes, the network is too simple, and it cannot properly capture the relationships in the data, which leads to low accuracy. As we add more hidden nodes, the network has more capacity to understand and represent the data, so both training and test accuracy usually improve.
+
+Question 02
+Answer : The pattern of accuracy as hidden nodes increase is that, at first, accuracy improves because the model is learning better. After a certain point, adding more hidden nodes no longer gives much benefit, and the accuracy starts to level off. If too many hidden nodes are added, the model may memorize the training data instead of learning general rules, which causes training accuracy to be very high but test accuracy to drop. This means the model is overfitting, so while it looks good on the training data, it performs poorly on new unseen data.
+
